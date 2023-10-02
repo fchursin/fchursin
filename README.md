@@ -1,4 +1,4 @@
-# Welcome to Fedya's GitHub Page! 😎
+# Welcome to Fedor's GitHub Page! 😎
 
 ## About Me 🚀
 - **Name:** Fedya
