@@ -11,7 +11,7 @@
 ## Connect with Me on LinkedIn 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fedor-chursin-17370224b)
 
-## Project 1: [OOP Educational Codebook](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP) 📚
+## [Project 1: OOP Educational Codebook](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP) 📚
 - **Author:** Fedor Chursin
 - **Contact:** [📧 Email](mailto:fedorchursinsk@gmail.com)
 - **GitHub:** [👉 ur0vn1t31](https://github.com/ur0vn1t31)
@@ -21,7 +21,7 @@
 - Covers Encapsulation, Inheritance, Polymorphism, and Abstraction.
 - Compares OOP and procedural programming.
 
-## Project 2: [EcoStep Mobile App](https://github.com/ur0vn1t31/EcoStep-Mobile-iOS-App) 🌍
+## [Project 2: EcoStep Mobile App](https://github.com/ur0vn1t31/EcoStep-Mobile-iOS-App) 🌍
 - **Author:** Fedor Chursin
 - **Contact:** [📧 Email](mailto:fedorchursinsk@gmail.com)
 - **GitHub:** [👉 ur0vn1t31](https://github.com/ur0vn1t31)
@@ -32,19 +32,19 @@
 - Provides personalized tips for reducing environmental impact.
 - Tracks daily activities and integrates Google AdMob and Firebase.
 
-## Project 3: [Food Labeling Computer Vision POC project](https://github.com/ur0vn1t31/Computer-Vision-POC-Project) 👁️
+## [Project 3: Food Labeling Computer Vision POC project](https://github.com/ur0vn1t31/Computer-Vision-POC-Project) 👁️
 **Overview:**
 - Focus on Convolutional Neural Networks (CNNs) for computer vision.
 - Emphasis on Responsible AI practices.
 - Predicts food types from images and applies Explainable AI methods.
 
-## Project 4: [AI-powered Web App](https://github.com/ur0vn1t31/Municipality-AI-Powered-Web-App) 🚓
+## [Project 4: AI-powered Web App](https://github.com/ur0vn1t31/Municipality-AI-Powered-Web-App) 🚓
 **Overview:**
 - Collaborative project for data analysis of crime rates in Breda.
 - Features machine learning model for crime prediction.
 - Built using Streamlit, Python, and Prophet library.
 
-## Project 5: [Banijay Show Ratings Forecast](https://github.com/ur0vn1t31/Banijay-Rating-Forecast) 📺
+## [Project 5: Banijay Show Ratings Forecast](https://github.com/ur0vn1t31/Banijay-Rating-Forecast) 📺
 **Overview:**
 - Collaboration with Banijay for TV show ratings forecasting.
 - Merging, EDA, and machine learning techniques.
