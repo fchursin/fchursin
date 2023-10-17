@@ -32,7 +32,7 @@
 - Provides personalized tips for reducing environmental impact.
 - Tracks daily activities and integrates Google AdMob and Firebase.
 
-## [Project 3: Food Labeling Computer Vision POC project](https://github.com/ur0vn1t31/Computer-Vision-POC-Project) 👁️
+## [Project 3: Food Labeling Computer Vision project](https://github.com/ur0vn1t31/Computer-Vision-POC-Project) 👁️
 **Overview:**
 - Focus on Convolutional Neural Networks (CNNs) for computer vision.
 - Emphasis on Responsible AI practices.
