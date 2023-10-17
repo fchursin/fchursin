@@ -11,7 +11,7 @@
 ## Connect with Me on LinkedIn 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fedor-chursin-17370224b)
 
-## [Project 1: OOP Educational Codebook](https://github.com/ur0vn1t31/OOP-Educational-Codebook-WIP) 📚
+## [Project 1: OOP Educational Codebook](https://github.com/ur0vn1t31/OOP-Educational-Notebook) 📚
 - **Author:** Fedor Chursin
 - **Contact:** [📧 Email](mailto:fedorchursinsk@gmail.com)
 - **GitHub:** [👉 ur0vn1t31](https://github.com/ur0vn1t31)
