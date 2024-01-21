@@ -1,10 +1,10 @@
 # Welcome to Fedor's GitHub Page! 
 
 ## About Me 🚀
-- **Name:** Fedya
-- **Focus:** AI and Data Science
-- **Skills:** Python, GoLang, C++, Swift, AWS, Apache Kafka, Streamlit, PowerBI, Tableau, Google Firebase
-- **Goals:** Working towards becoming a lecturer in AI and actively involved in building AI-related startups that have the potential to change the world.
+- **Name:** Fedor
+- **Focus:** AI, Data Science, Computer Sciecne
+- **Skills:** Python, GoLang, C++, Swift, Streamlit, PowerBI, Tableau, Google Firebase
+- **Goals:** Working towards becoming a lecturer in AI/CS and actively involved in building AI/CS-related  startups that have the potential to change the world.
 - **Current:** Studying in the DS & AI program, working on side projects
 - **Open to:** Job offers and seeking a summer internship in a data-driven company 
 
